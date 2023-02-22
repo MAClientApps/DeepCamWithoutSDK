@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280120810869",
+    "project_id": "deepcam-a96b0",
+    "storage_bucket": "deepcam-a96b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280120810869:android:78956d049323ead8b0873c",
+        "android_client_info": {
+          "package_name": "com.lakshitasuman.deepcam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280120810869-4pn5vs9ag320m6rqrjlut7ca3dtpa2tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5pGSOp2OvTl9Icv0w9hB0IG7r2PbwkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280120810869-4pn5vs9ag320m6rqrjlut7ca3dtpa2tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
